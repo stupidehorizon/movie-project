@@ -8,11 +8,12 @@
 node库使用相关类库
 
 - express4.x
-- jade
+- ejs
 - mongoose
 - underscore
 - path
 - body-parser
+- es6
 
 前端使用相关类库
 
@@ -24,5 +25,9 @@ node库使用相关类库
 本项目主要有4个页面，分别为：首页，列表页，新增录入页，详情页面。处理逻辑有新增，修改，删除操作。
 
 ## tips
+clone或者直接下载本代码库后，需要安装node，mongodb环境，之后再项目根目录下运行npm install 安装应用到的类库。
 
-clone或者直接下载本代码库后，需要安装node，mongodb环境，之后再项目根目录下运行npm install && bower install 安装应用到的类库。
+* 关于mongodb的安装可以参照[这里](http://www.imooc.com/article/14770)
+* 如果你不想安装mongodb,可以上https://mlab.com/ 注册申请一个500M的免费mongodb数据库,很方便.
+
+* 持续更新,后续前端会采用react。
