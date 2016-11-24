@@ -13,7 +13,7 @@ node库使用相关类库
 - underscore
 - path
 - body-parser
-- es6
+- es6(因为nodejs从6.X版本开始就支持93%的es6特性了,所以没有用到babel转码)
 
 前端使用相关类库
 
