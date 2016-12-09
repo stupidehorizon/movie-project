@@ -1,6 +1,6 @@
 # nodejs练习项目
 
-本项目作为初学node的入门项目。
+本项目作为初学node的入门项目,分为两部分,第一部分为master分支,第二部分为movie-project-2分支,由浅入深。(通过git checkout branch-name 来切换分支)
 
 ## 使用框架和类库
 
@@ -20,11 +20,11 @@ node库使用相关类库
 - bootstrap
 - jquery
 
-## 项目介绍
+## master分支项目介绍
 
-本项目主要有4个页面，分别为：首页，列表页，新增录入页，详情页面。处理逻辑有新增，修改，删除操作。
+本分支主要有4个页面，分别为：首页，列表页，新增录入页，详情页面。处理逻辑有新增，修改，删除操作。
 
-## tips
+## 运行安装(tips)
 clone或者直接下载本代码库后，需要安装node，mongodb环境，之后再项目根目录下运行npm install 安装应用到的类库。
 
 * 关于mongodb的安装可以参照[这里](http://www.imooc.com/article/14770)
