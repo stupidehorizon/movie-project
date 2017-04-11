@@ -9,7 +9,7 @@
   "keywords": [
     "node实战"
   ],
-  "author": "mumu",
+  "author": "horizon",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -18,5 +18,18 @@
     "moment": "^2.16.0",
     "mongoose": "^4.6.8",
     "underscore": "^1.8.3"
-  }
+  },
+  "devDependencies": {
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupidehorizon/movie-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stupidehorizon/movie-project/issues"
+  },
+  "homepage": "https://github.com/stupidehorizon/movie-project#readme"
 }
