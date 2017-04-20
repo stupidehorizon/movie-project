@@ -1,7 +1,19 @@
 # nodejs练习项目
 
-本项目作为初学node的入门项目,分为两部分,第一部分为master分支,第二部分为movie-project-2分支,由浅入深。(通过git checkout branch-name 来切换分支)
+本项目作为初学node的入门项目。参考了慕课网的视频教程和评论区同学[cllgeek](https://github.com/cllgeek) 的源码，自己理了一遍，修改了错误，添加了详细的备注，更方便初学者看懂。
+## 项目展示
+![](https://github.com/stupidehorizon/movie-project/project.gif)
 
+## 安装方式
+- clone 到本地
+- 命令行启动mongodb数据库 此处省略端口设置 -port mongodb将设为默认端口
+```javascript
+λ mongod -dbpath D:\MongoDB-data\data\db
+```
+- 启动服务器
+```javascript
+λ node app
+```
 ## 使用框架和类库
 
 本项目使用node作为后台开发语言，并以express4.X为类库，mongodb为数据库开发的。
