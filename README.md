@@ -2,7 +2,7 @@
 
 本项目作为初学node的入门项目。参考了慕课网的视频教程和评论区同学[cllgeek](https://github.com/cllgeek) 的源码，自己理了一遍，修改了错误，添加了详细的备注，更方便初学者看懂。
 ## 项目展示
-![](https://github.com/stupidehorizon/movie-project/project.gif)
+![](https://github.com/stupidehorizon/movie-project/blob/master/project.gif)
 
 ## 安装方式
 - clone 到本地
